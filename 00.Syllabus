@@ -1,0 +1,43 @@
+
+Phase 1: Go Foundations (Day 1–10)
+
+    Go basics, variables, control flow
+    Functions, arrays, slices, maps
+    Structs, pointers, error handling
+    Project: Build small utilities (calculator, text processor)
+
+
+Phase 2: CLI Tools & File Handling (Day 11–20)
+
+    File & directory operations
+    Command-line tools using flags
+    JSON & YAML parsing
+    Logging & configs
+    Projects:
+        File organizer CLI
+        Log parser
+        Config reader tool
+
+
+Phase 3: API & Automation Projects (Day 21–30)
+
+    HTTP requests & API handling
+    Build API-based tools
+    Web scraping basics
+    Concurrency (goroutines & channels)
+    Projects:
+        Weather CLI tool
+        GitHub activity fetcher
+        Parallel downloader
+
+
+Advanced CLI Projects (Day 31–40)
+
+    Process handling & system interaction
+    Task automation scripts
+    Retry logic & robustness
+    Combining multiple features
+    Projects:
+        Task runner CLI
+        Log monitoring tool
+        Multi-feature automation CLI
