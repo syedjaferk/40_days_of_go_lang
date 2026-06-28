@@ -1,0 +1,8 @@
+app:
+  name: User Validator
+
+validation:
+  min_age: 18
+
+logging:
+  level: info
